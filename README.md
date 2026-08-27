@@ -1,5 +1,11 @@
 # Daytona PHP SDK
 
+> **AGILEDROP fork.** Maintained only to widen `illuminate/support` to include `^13.0`, so the SDK
+> installs on Laravel 13. No other changes to upstream behaviour. Upstream
+> ([elliottlawson/daytona-php-sdk](https://github.com/elliottlawson/daytona-php-sdk)) has not tagged a
+> release since v0.1.7 (July 2025). Retire this fork and switch back to the upstream package as soon as
+> upstream supports Laravel 13.
+
 A PHP SDK for interacting with the Daytona API to manage development sandboxes.
 
 ## Requirements
